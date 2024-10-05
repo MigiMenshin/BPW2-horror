@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17b3a3d78fa0dec42b72140d2c1b0a84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - activeCamera: {instanceID: 0}
+  - flareConfig: {fileID: 11400000, guid: baf99b846ea565642940f23bb4f43dcf, type: 2}
+  - lineOfSightBox: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

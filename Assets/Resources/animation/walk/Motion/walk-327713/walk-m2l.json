@@ -1,0 +1,17 @@
+﻿{
+    "walk-m2l": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/RLConverterServices/RLConverter/TempData/Convert/bd8b5d49d5fae37e/JICda871aa2ac42cbf73",
+        "Object": {
+            "walk-m2l": {
+                "Generation": "AccuRig",
+                "Physics": {},
+                "Meshes": {}
+            }
+        }
+    }
+}
